@@ -5,9 +5,12 @@ Sure Sure
 =======
 Added from GitHub Online account
 >>>>>>> 99f984b296bbf6779e5d7f183e600424ea6499ee
+<<<<<<< HEAD
 
 Today - 31-10-22
 
 changed
 
 Today i have started writing from New laptop 07-11-2022
+=======
+>>>>>>> parent of 3170559 (new update)
